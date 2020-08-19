@@ -11,3 +11,4 @@ pandas==0.23.3
 python-dateutil==2.7.3
 SQLAlchemy==1.2.10
 Werkzeug==0.14.1
+dnspython==2.0.0
