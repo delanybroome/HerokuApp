@@ -7,7 +7,7 @@ basedir = os.path.abspath(os.path.dirname(__file__))
 # return data from json via the URL to the html/js pushing from the back end to front end 
 from flask import Flask, render_template
 #from flask_sqlalchemy import SQLAlchemy
-import os
+#import os
 
 app = Flask(__name__)
 
